@@ -24,3 +24,7 @@ setti inn notendur með *csv* skránni, setti upp **DHCP** server og join-aði N
 kláraði að setja upp *Heimamöppurnar* og **Kvótan** á allar möppurnar
 
 Settum upp Sameign möppuna þannig að kennarar hafa fullan aðgang, en nemendur geta bara lesið (ekki búið til eða vistað í skjöl)
+
+Settum upp **Google Chrome** á tölvurnar
+
+Enduðum á því að vera að baslast með heimasíðu **google chrome** og settum loksins upp **NAT**

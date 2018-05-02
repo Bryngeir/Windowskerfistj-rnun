@@ -1,6 +1,10 @@
 25.04.2018 :
-Byrjuðum á verkefninu, setti upp DNS og ADDC á serverinn sem mun halda utan um notendur fyrir verkefnið og einnig reiknaði ég út IP tölurnar sem við þurfum að nota.
+Byrjuðum á verkefninu, setti upp DNS og ADDC á serverinn sem mun halda utan um notendur fyrir verkefnið
+reiknaði ég út IP tölurnar sem við þurfum að nota.
 
 
 02.05.2018 :
-Setti Inn heimamöppur fyrir alla notendur,
+Setti Inn heimamöppur fyrir alla notendur og redirectaði Documents foldernum
+Setti eigning upp Sameign möppuna og gáfum rétt réttindi fyrir bæði kennara og nemendur
+Setti Chrome upp fyrir alla notendur og setti in rétta heimasíðu fyrir hvern notanda t.d kennarar fengu inna.is, tölvubraut forritun.is
+

@@ -10,6 +10,9 @@
 								       
    **(GUF)** *kjahjo*
 								       
-   Setti inn möppurnar Gögn og fyrir hvern hóp ######(ekki heimamöppu)
+   Setti inn möppurnar Gögn og fyrir hvern hóp **(ekki heimamöppu)**
   
    Setti upp **File server resource manager** *(quotas)* en setti ekki inn neina kvóta
+   
+   
+###2.5.18 - kláraði að setja upp *Heimamöppurnar* og **Kvótan** á allar möppurnar

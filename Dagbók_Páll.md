@@ -22,3 +22,5 @@ setti inn notendur með *csv* skránni, setti upp **DHCP** server og join-aði N
 ### 2.5.18 
 
 kláraði að setja upp *Heimamöppurnar* og **Kvótan** á allar möppurnar
+
+Settum upp Sameign möppuna þannig að kennarar hafa fullan aðgang, en nemendur geta bara lesið (ekki búið til eða vistað í skjöl)

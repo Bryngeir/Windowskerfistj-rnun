@@ -38,5 +38,8 @@ Gáfum kennara grúppunni Admin réttindi
 Disable-aði Task Manager og control-panel fyrir nemendur
 
 Lét Kennara logga sig inn á start menu í staðinn fyrir desktop
+
 Bættum við Screensaver bubbles.scr sem kveikjir á sér eftir 5 mín og er ekki hægt að breyta um screen saver
+
+Settum inn prentara fyrir *Tölvubraut, Guf, Kennara og sameign*
 

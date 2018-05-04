@@ -1,0 +1,104 @@
+2t/2107952279	- lykilorð	
+
+
+IP Server: 10.201.190.34
+
+IP Client: 10.201.190.84
+
+Administrator
+2015P@ssword
+
+----Verkefni 2----
+yfirstjórn
+User logon name: gudridur@eep-palli-h-2.local
+User logon name: eva@eep-palli-h-2.local
+
+Innkaup
+User logon name: asdis@eep-palli-h-2.local
+User logon name: vilborg@eep-palli-h-2.local
+
+Sala
+User logon name: kristjan@eep-palli-h-2.local
+User logon name: baldvin@eep-palli-h-2.local
+User logon name: olafur@eep-palli-h-2.local
+User logon name: gudmundur@eep-palli-h-2.local
+User logon name: per@eep-palli-h-2.local
+
+pass:pass.123
+
+Möppur:
+Yfirstjórn: \\WIN2A-34\Yfirstjórn
+Sala: \\WIN2A-34\Sala
+Innkaup: \\WIN2A-34\Innkaup
+Sameing: \\WIN2A-34\Hugmyndabox
+
+VERKEFNI 3
+Framkvæmdardeild - AriTei
+Framleiðsludeild - AxeKol
+Rekstrardeild - ElíGud
+Tölvudeild - AndFri
+Allir
+Liður 1 - Búið.
+Liður 2 - Búið. Lesa heimamappa.txt
+Liður 3 - Búið.
+Liður 4 - Búið - userCon>AdminisTempl>>FileExpl>Hide these specified drives.
+				     >>StartMenuAndTaskbar>Remove Clock....
+
+Liður 5 - Búið - https://community.spiceworks.com/topic/311437-give-local-admin-rights-to-a-user.
+
+Liður 6 - Búið - TölvaGPO>Policies>Software Settings>Software inst>gefa domain computers full control á Sameign möppu.
+		 FramleiðsludeildGPO>User Conf>Policies>Admin Templ>System>Don't run Specified Windows applications>firefox.exe.
+
+Liður 7 - Búið - ná í google chrome msi 64bita, og setja installerinn úr zip skránni í sameign möppuna, TölvaGPO>software install.
+
+Liður 8 - Búið - AllirGPO>UserConf>Policies>AdminTempl>Control Panel>Personalization>Enable Screen saver, Screensaver timeout og force specific.
+
+Liður 9 - Búið - Userconf>adminis>System>ctrl+alt+del options>Remove task manager.
+		 Userconf>adminis>control panel>prohibit acces to control Panel and...
+
+Liður 10 - Búið  - TölvudeildGPO>user>policies>administr>Start Menu>Go to the desktop instead of start(Disable).
+
+Verkefni 4
+
+Liður 1 - Klárað - https://www.youtube.com/watch?v=w0y-Q2afofc&feature=youtu.be
+Liður 2 - klárað
+Liður 3 - klárað
+Liður 4 - klárað
+Liður 5 - klárað
+Liður 6 - klárað
+Liður 7 - klárað
+Liður 8 - klárað
+Liður 9 - klárað
+Liður 10 - klárað - userconf > administ >  windows con > internet Ex > Disable changing home page settings
+Liður 11 - klárað - userconf > preferences > windows settings > shortcuts
+Liður 12 - klárað - Skrá inná administrator>opna win explorer>hægri smella á computer>manage>local users>groups>tvísmella á administrators> bæta við grúppu.
+Liður 13 - klárað
+Liður 14 - klárað
+Liður 15 - klárað
+Liður 16 - klárað - https://social.technet.microsoft.com/wiki/contents/articles/20262.group-policy-apply-bginfo-using-a-logon-script.aspx
+Liður 17 - klárað
+Liður 18 - klárað
+Liður 19 - klárað
+Liður 20 - klárað
+
+
+
+Hópverkefni 
+
+Tölva 1. domain controller klárt, gpo og notendur klárt 03
+
+Tölva 2. allt annað 04
+
+domain(BP)\administrator
+
+27.04.18 - setti inn notendur, setti upp DHCP server og join-aði Notendaserverinn(53) við Domain-ið(BP.local)
+	   Gaf Domain users réttindi til að tengjast við tölvurnar (remote desktop)
+	   (kennarar) adofri
+	   (Tölvubraut) arnein
+	   (GUF) kjahjo
+	   Setti inn möppurnar Gögn og fyrir hvern hóp(ekki heimamöppu)
+
+#### groups kennarar, GUF, Tölvubraut
+
+\\WIN2A-04\Kennarar
+

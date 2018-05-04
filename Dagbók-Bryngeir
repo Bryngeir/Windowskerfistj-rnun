@@ -10,10 +10,16 @@ Setti Chrome upp fyrir alla notendur og setti in rétta heimasíðu fyrir hvern 
 
 
 04.05.2018
+Gáfum Kennurum Adminréttindi og byrjuðum að vinna í Aukahlutum sem koma hérna fyrir neðan
 Tók út Add or Remove Programs fyrir alla notendur
 Setti upp Prentara og tengdi við rétta groupu.
 setti Bubbles.scr sem screensaver sem mun koma inn eftir 5 min bið og bannaði notendum að breyta um screensaver
-Gáfum Kennurum Adminréttindi
 Tókum út að Nemendur gætu opnað task mananger eða control pannel
 settum inn file extension fyrir allt saman.
 settum upp BGinfo.
+Lokuðum á að notendur geti slökkt á windows defender.
+Slökktum á auto/forced restart og auto updates
+Tókum út að tölvur lesi removable storage devices
+bönnuðum nemendum að installa forritum
+stoppuðum LM hash í að geyma lykilorð
+Lokuðum á Guest accounts fyrir alla notendur

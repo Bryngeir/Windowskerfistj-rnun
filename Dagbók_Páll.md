@@ -33,9 +33,10 @@ Enduðum á því að vera að baslast með heimasíðu **google chrome** og set
 
 ### 4.5.18
 
+Gáfum kennara grúppunni Admin réttindi
+
 Disable-aði Task Manager og control-panel fyrir nemendur
 
-Lét Kennara logga sig inn á start menu í staðinn fyrir desktop(Þarf að gefa Kennurum Admin Réttindi)
-
+Lét Kennara logga sig inn á start menu í staðinn fyrir desktop
 Bættum við Screensaver bubbles.scr sem kveikjir á sér eftir 5 mín og er ekki hægt að breyta um screen saver
 

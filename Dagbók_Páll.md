@@ -27,4 +27,15 @@ Settum upp Sameign möppuna þannig að kennarar hafa fullan aðgang, en nemendu
 
 Settum upp **Google Chrome** á tölvurnar
 
-Enduðum á því að vera að baslast með heimasíðu **google chrome** og settum loksins upp **NAT**
+Disable-uðum Internet Explorer fyrir alla notendur
+
+Enduðum á því að vera að baslast með heimasíðu **google chrome** og settum loksins upp **NAT** (heimasíðurnar virka ekki af eitthverri ástæðu)
+
+### 4.5.18
+
+Disable-aði Task Manager og control-panel fyrir nemendur
+
+Lét Kennara logga sig inn á start menu í staðinn fyrir desktop(Þarf að gefa Kennurum Admin Réttindi)
+
+Bættum við Screensaver bubbles.scr sem kveikjir á sér eftir 5 mín og er ekki hægt að breyta um screen saver
+

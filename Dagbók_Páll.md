@@ -29,7 +29,7 @@ Settum upp **Google Chrome** á tölvurnar
 
 Disable-uðum Internet Explorer fyrir alla notendur
 
-Enduðum á því að vera að baslast með heimasíðu **google chrome** og settum loksins upp **NAT**
+Enduðum á því að vera að baslast með heimasíðu **google chrome** (löguðum það á endanum) og settum loksins upp **NAT**
 
 ### 4.5.18
 

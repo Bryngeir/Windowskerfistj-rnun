@@ -43,3 +43,4 @@ Bættum við Screensaver bubbles.scr sem kveikjir á sér eftir 5 mín og er ekk
 
 Settum inn prentara fyrir *Tölvubraut, Guf, Kennara og sameign*
 
+Létum alla notendur fá BGInfo sem log-on script

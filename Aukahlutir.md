@@ -1,4 +1,6 @@
-# Notendur
+# Aukahlutir
+
+## Notendur
 
 **(kennarar)** adofri
 
@@ -6,15 +8,15 @@
 
 **(GUF)** kjahjo
 
-## Nemendur
+### Nemendur
 
 Disable-aði **Task Manager** og **control-panel** fyrir *nemendur*
 
-## Kennarar
+### Kennarar
 
 Lét Kennara logga sig inn á **start menu** í staðinn fyrir desktop
 
-## Allir
+### Allir
 
 Bættum við Screensaver *bubbles.scr* sem kveikjir á sér eftir 5 mín og er ekki hægt að breyta um **screen saver**
 

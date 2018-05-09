@@ -1,3 +1,11 @@
+# Notendur
+
+**(kennarar)** adofri
+
+**(Tölvubraut)** arnein
+
+**(GUF)** kjahjo
+
 # Aukahlutir
 
 Disable-aði **Task Manager** og **control-panel** fyrir *nemendur*

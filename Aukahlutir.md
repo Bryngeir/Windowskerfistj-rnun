@@ -1,3 +1,19 @@
+# Grunnhlutir
+
+Nýta á báða serverana og báðar Win8.1 vélarnar.
+
+Til einföldunar skulum þið eingöngu vera með eitt IP net sem þá þarf að vera nógu stórt fyrir ca. 400 tölvur.
+
+Allir notendur þurfa að fá heimasvæði, nemendur með **10MB kvóta** en kennarar með **20MB kvóta.**
+
+**Nemendur** skulu hafa *lesaðgang* að *Sameign* en **kennarar** fullan aðgang.
+
+**Kennarar** skulu líka hafa aðgang að Kennaradrifi en nemendur engan aðgang.
+
+Allar tölvur eiga að **Chrome vafrann**, **kennara** eiga að vera með *Innu* sem upphafssíðu, **Tbr** á að vera með *forritun.is* sem upphafssíðu og **GUF** með *tskoli.is* sem upphafssíðu. Ekki á að vera hægt að nota **Internet Explorer** í skólanum.
+
+Kennarar skulu vera með **Admin** aðgang að Win8.1 tölvunum.
+
 # Aukahlutir
 
 ## Notendur

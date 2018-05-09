@@ -6,11 +6,15 @@
 
 **(GUF)** kjahjo
 
-# Aukahlutir
+## Nemendur
 
 Disable-aði **Task Manager** og **control-panel** fyrir *nemendur*
 
+## Kennarar
+
 Lét Kennara logga sig inn á **start menu** í staðinn fyrir desktop
+
+## Allir
 
 Bættum við Screensaver *bubbles.scr* sem kveikjir á sér eftir 5 mín og er ekki hægt að breyta um **screen saver**
 
@@ -26,7 +30,6 @@ Bönnuðum nemendum að lesa **Removable Storage Devices**
 
 Bönnuðum nemendum að setja upp ný forrit
 
-lokuðum fyrir **Guest Account**
+Lokuðum fyrir **Guest Account**
 
 Stoppuðum **LAN Hash** við að geyma lykilorð
-
